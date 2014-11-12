@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+protected function setUp()
+{
+    ${0:// code...}
+}
+]]></content>
+    <tabTrigger>setup</tabTrigger>
+    <scope>source.php - comment - variable - string</scope>
+    <description>PHPUnit setup method declaration</description>
+</snippet>
