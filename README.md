@@ -15,18 +15,18 @@ Other PHP packages
 Installation
 ------------
 
-### [git](http://git-scm.com)
+### [Git](http://git-scm.com)
 
-clone directly into the sublime text `packages` directory.  *locate the
-`packages` directory by using the menu item
-`preferences -> browse packages...`.*
+Clone directly into the Sublime Text `Packages` directory.  *Locate the
+`Packages` directory by using the menu item
+`Preferences -> Browse Packages...`.*
 
-### [manual](http://www.sublimetext.com/docs/3/packages.html)
+### [Manual](http://www.sublimetext.com/docs/3/packages.html)
 
-1. [download a release](https://github.com/gerardroche/sublime-phpunit-snippets/releases)
-2. unzip and copy it to the sublime text `packages` directory.  *locate the
-`packages` directory by using the menu item
-`preferences -> browse packages...`.*
+1. [Download a release](https://github.com/gerardroche/sublime-phpunit-snippets/releases)
+2. Unzip and copy it to the Sublime Text `Packages` directory.  *Locate the
+`Packages` directory by using the menu item
+`Preferences -> Browse Packages...`.*
 
 Contributing
 ------------
