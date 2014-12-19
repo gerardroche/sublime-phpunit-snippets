@@ -1,7 +1,7 @@
 Sublime Text PHPUnit Snippets
 =============================
 
-- [PHPUnit](http://phpunit.de) [~4.3](http://semver.org)
+- [PHPUnit](http://phpunit.de) [~4.4](http://semver.org)
 
 Other PHP packages
 ------------------
