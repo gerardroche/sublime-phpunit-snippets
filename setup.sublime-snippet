@@ -6,6 +6,6 @@ protected function setUp()
 }
 ]]></content>
     <tabTrigger>setup</tabTrigger>
-    <scope>source.php - comment - variable - string</scope>
+    <scope>source.php - comment - meta - string - variable</scope>
     <description>PHPUnit setup method declaration</description>
 </snippet>

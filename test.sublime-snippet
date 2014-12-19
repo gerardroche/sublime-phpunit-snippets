@@ -6,6 +6,6 @@ ${1/.+/\/**\n * @covers /}${1:Class::method}${1/.+/\n *\/\n//}public function te
 }
 ]]></content>
     <tabTrigger>test</tabTrigger>
-    <scope>source.php - comment - variable - string</scope>
+    <scope>source.php - comment - meta - string - variable</scope>
     <description>PHPUnit test</description>
 </snippet>

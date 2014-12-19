@@ -21,6 +21,6 @@ public function test${1}(${2})
 }
 ]]></content>
     <tabTrigger>provide</tabTrigger>
-    <scope>source.php - comment - variable - string</scope>
+    <scope>source.php - comment - meta - string - variable</scope>
     <description>PHPUnit data provider test</description>
 </snippet>

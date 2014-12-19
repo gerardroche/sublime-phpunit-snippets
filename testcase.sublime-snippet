@@ -6,6 +6,6 @@ class ${1:ClassName}Test extends \PHPUnit_Framework_TestCase
 }
 ]]></content>
     <tabTrigger>testcase</tabTrigger>
-    <scope>source.php - comment - variable - string</scope>
+    <scope>source.php - comment - meta - string - variable</scope>
     <description>PHPUnit test case declaration</description>
 </snippet>

@@ -6,6 +6,6 @@ protected function tearDown()
 }
 ]]></content>
     <tabTrigger>teardown</tabTrigger>
-    <scope>source.php - comment - variable - string</scope>
+    <scope>source.php - comment - meta - string - variable</scope>
     <description>PHPUnit teardown method declaration</description>
 </snippet>
