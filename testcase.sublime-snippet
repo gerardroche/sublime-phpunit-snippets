@@ -2,7 +2,7 @@
     <content><![CDATA[
 class ${1:ClassName}Test extends \PHPUnit_Framework_TestCase
 {
-    ${0:// code...}
+    $0
 }
 ]]></content>
     <tabTrigger>testcase</tabTrigger>
