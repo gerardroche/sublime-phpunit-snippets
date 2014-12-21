@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-class ${1:ClassName}Test extends \PHPUnit_Framework_TestCase
+class ${1:Name}Test extends \PHPUnit_Framework_TestCase
 {
     $0
 }
