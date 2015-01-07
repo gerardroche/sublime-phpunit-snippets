@@ -17,10 +17,10 @@ public function provide${1:Name}()
  */
 public function test${1}(${2})
 {
-    ${0:// code...}
+    $0
 }
 ]]></content>
     <tabTrigger>provide</tabTrigger>
-    <scope>source.php - comment - variable - string</scope>
+    <scope>source.php - comment - meta - string - variable</scope>
     <description>PHPUnit data provider test</description>
 </snippet>

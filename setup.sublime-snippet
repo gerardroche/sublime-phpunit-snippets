@@ -2,10 +2,10 @@
     <content><![CDATA[
 protected function setUp()
 {
-    ${0:// code...}
+    $0
 }
 ]]></content>
     <tabTrigger>setup</tabTrigger>
-    <scope>source.php - comment - variable - string</scope>
+    <scope>source.php - comment - meta - string - variable</scope>
     <description>PHPUnit setup method declaration</description>
 </snippet>

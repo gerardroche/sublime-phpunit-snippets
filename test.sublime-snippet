@@ -2,10 +2,10 @@
     <content><![CDATA[
 ${1/.+/\/**\n * @covers /}${1:Class::method}${1/.+/\n *\/\n//}public function test${3:Name}()
 {
-    ${0:// code...}
+    $0
 }
 ]]></content>
     <tabTrigger>test</tabTrigger>
-    <scope>source.php - comment - variable - string</scope>
+    <scope>source.php - comment - meta - string - variable</scope>
     <description>PHPUnit test</description>
 </snippet>

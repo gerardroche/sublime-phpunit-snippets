@@ -2,10 +2,10 @@
     <content><![CDATA[
 protected function tearDown()
 {
-    ${0:// code...}
+    $0
 }
 ]]></content>
     <tabTrigger>teardown</tabTrigger>
-    <scope>source.php - comment - variable - string</scope>
+    <scope>source.php - comment - meta - string - variable</scope>
     <description>PHPUnit teardown method declaration</description>
 </snippet>
