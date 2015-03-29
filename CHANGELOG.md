@@ -1,5 +1,11 @@
 # phpunit-snippets changelog
 
+## 1.3.0 (next-version)
+
+### Changes
+
+* Removed strict option in phpunit.xml snippet. The `strict` attribute of the XML configuration file has been deprecated in PHPUnit 4.5. See https://github.com/sebastianbergmann/phpunit/wiki/Release-Announcement-for-PHPUnit-4.5.0#deprecated-settings.
+
 ## 1.2.0
 
 ### New Features
