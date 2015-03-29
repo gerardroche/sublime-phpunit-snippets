@@ -5,6 +5,7 @@
 ### Changes
 
 * Removed strict option in phpunit.xml snippet. The `strict` attribute of the XML configuration file has been deprecated in PHPUnit 4.5. See https://github.com/sebastianbergmann/phpunit/wiki/Release-Announcement-for-PHPUnit-4.5.0#deprecated-settings.
+* Snippets now use PHP 5.4 array syntax `[]`
 
 ## 1.2.0
 
