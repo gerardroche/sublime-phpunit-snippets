@@ -15,6 +15,7 @@
          forceCoversAnnotation="true"
          verbose="true"
          >
+
     <php>
         <ini name="date.timezone" value="UTC" />
         <ini name="display_errors" value="1" />
