@@ -7,7 +7,6 @@
          beStrictAboutTestSize="true"
          beStrictAboutTestsThatDoNotTestAnything="true"
          beStrictAboutTodoAnnotatedTests="true"
-         bootstrap="vendor/autoload.php"
          checkForUnintentionallyCoveredCode="true"
          convertErrorsToExceptions="true"
          convertNoticesToExceptions="true"
