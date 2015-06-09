@@ -1,6 +1,6 @@
-# phpunit-snippets
+# sublime-phpunit-snippets
 
-phpunit-snippets plugin for Sublime Text. Provides decent PHPUnit snippets.
+sublime-phpunit-snippets plugin for Sublime Text. Provides decent PHPUnit snippets.
 
 ## Overview
 
@@ -33,7 +33,7 @@ To enable [tab-completions][tab-completed-completions] set `"tab_completion": tr
 
 ### Manual installation
 
-1. Download or clone this repository to a directory "phpunit-snippets" in the Sublime Text Packages directory for your platform:
+1. Download or clone this repository to a directory named `phpunit-snippets` in the Sublime Text Packages directory for your platform:
     * Sublime Text 3
         - Linux: `git clone https://github.com/gerardroche/sublime-phpunit-snippets.git ~/.config/sublime-text-3/Packages/phpunit-snippets`
         - OS X: `git clone https://github.com/gerardroche/sublime-phpunit-snippets.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/phpunit-snippets`
@@ -63,7 +63,7 @@ See [CHANGELOG.md](CHANGELOG.md).
 
 ## License
 
-phpunit-snippets is released under the [BSD 3-Clause License][license].
+sublime-phpunit-snippets is released under the [BSD 3-Clause License][license].
 
 [documentation]: DOCUMENTATION.md
 [license]: LICENSE

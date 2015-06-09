@@ -7,13 +7,11 @@
          beStrictAboutTestSize="true"
          beStrictAboutTestsThatDoNotTestAnything="true"
          beStrictAboutTodoAnnotatedTests="true"
-         bootstrap="vendor/autoload.php"
          checkForUnintentionallyCoveredCode="true"
          convertErrorsToExceptions="true"
          convertNoticesToExceptions="true"
          convertWarningsToExceptions="true"
          forceCoversAnnotation="true"
-         strict="true"
          verbose="true"
          >
 
@@ -23,7 +21,7 @@
         <ini name="display_startup_errors" value="1" />
         <ini name="error_reporting" value="-1" />
         <ini name="log_errors" value="0" />
-        <!-- <ini name="memory_limit" value="10M" /> -->
+        <ini name="memory_limit" value="10M" />
     </php>
 
     <testsuites>

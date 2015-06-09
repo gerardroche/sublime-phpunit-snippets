@@ -5,9 +5,9 @@
  */
 public function provide${1:Name}()
 {
-    return array(
-        array(${3})
-    );
+    return [
+        [${3}]
+    ];
 }
 
 /**
