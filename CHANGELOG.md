@@ -1,9 +1,12 @@
 # sublime-phpunit-snippets changelog
 
-## 1.3.0 (next-version)
+## 1.4.0
 
 * Add new snippet: `testd` - test with annotated @depends
 * All snippets descriptions are now prefixed with "PHPUnit: "
+
+## 1.3.0
+
 * Snippets now use PHP 5.4 array syntax `[]`
 * `phpunit.xml` snippet: Fixed coding standard
 * `phpunit.xml` snippet: Added default memory limit
