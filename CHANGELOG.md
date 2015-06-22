@@ -2,6 +2,7 @@
 
 ## 1.3.0 (next-version)
 
+* Add new snippet: `testd` - test with annotated @depends
 * All snippets descriptions are now prefixed with "PHPUnit: "
 * Snippets now use PHP 5.4 array syntax `[]`
 * `phpunit.xml` snippet: Fixed coding standard
