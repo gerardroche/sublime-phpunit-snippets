@@ -8,5 +8,5 @@ ${1/.+/\/**\n * @covers /}${1:Class::method}${1/.+/\n *\/\n//}public function te
     <tabTrigger>test</tabTrigger>
     <scopeName>language_construct</scopeName>
     <scope>source.php - comment - constant.other.class - entity.name - meta.catch - meta.class - meta.function.arguments - meta.use - string - variable.other</scope>
-    <description>PHPUnit test</description>
+    <description>PHPUnit: test</description>
 </snippet>
