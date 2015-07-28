@@ -1,7 +1,5 @@
 # Snippets
 
-## Scope: source
-
 | Trigger | Description |
 | ------- | ----------- |
 | `phpunitxml` | PHPUnit: xml configuration declaration |
@@ -12,4 +10,3 @@
 | `testbootstrap` | PHPUnit: bootstrap |
 | `testcase` | PHPUnit: test case declaration |
 | `testd` | PHPUnit: test with annotated @depends |
-
