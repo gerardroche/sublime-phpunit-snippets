@@ -1,4 +1,4 @@
-# sublime-phpunit-snippets
+# gerardroche/sublime-phpunit-snippets
 
 sublime-phpunit-snippets plugin for Sublime Text. Provides decent PHPUnit snippets.
 
@@ -14,12 +14,12 @@ sublime-phpunit-snippets plugin for Sublime Text. Provides decent PHPUnit snippe
 
 # Features
 
-* PHPUnit [~4.4][semver]
-* DbUnit [~1.3][semver]
-* [PSR][php-fig] compliant
+* PHPUnit [~4.4](http://semver.org)
+* DbUnit [~1.3](http://semver.org)
+* [PSR](http://www.php-fig.org) compliant
 * Scoped to minimise auto-complete noise
 
-See the [documentation] for a list of the snippets.
+See the [documentation](DOCUMENTATION.md) for a list of the snippets.
 
 ## Key Bindings
 
@@ -27,7 +27,7 @@ See the [documentation] for a list of the snippets.
 |------|---------|-------|-------------|
 | <kbd>Ctrl</kbd>+<kbd>Space</kbd> | <kbd>Ctrl</kbd>+<kbd>Space</kbd> | <kbd>Alt</kbd>+<kbd>/</kbd> | Activate completions |
 
-To enable [tab-completions][tab-completed-completions] set `"tab_completion": true` in `Preferences > Settings - User`.
+To enable [tab-completions](http://docs.sublimetext.info/en/latest/extensibility/completions.html#tab-completed-completions) set `"tab_completion": true` in `Preferences > Settings - User`.
 
 ## Installation
 
@@ -54,26 +54,12 @@ See [CHANGELOG.md](CHANGELOG.md).
 
 ## Complementary Plugins
 
-* [php-completions]
-* [php-grammar]
-* [php-snippets]
-* [phpunit-completions]
-* [phpunit-snippets]
-* [phpunit]
+* [PHP Grammar](https://github.com/gerardroche/sublime-php-grammar)
+* [PHP Completions](https://github.com/gerardroche/sublime-phpck)
+* [PHP Snippets](https://github.com/gerardroche/sublime-php-snippets)
+* [PHPUnit](https://github.com/gerardroche/sublime-phpunit)
+* [PHPUnit Completions](https://github.com/gerardroche/sublime-phpunit-completions)
 
 ## License
 
-sublime-phpunit-snippets is released under the [BSD 3-Clause License][license].
-
-[documentation]: DOCUMENTATION.md
-[license]: LICENSE
-[Package Control]: https://packagecontrol.io
-[php-completions]: https://github.com/gerardroche/sublime-phpck
-[php-fig]: http://www.php-fig.org
-[php-grammar]: https://github.com/gerardroche/sublime-php-grammar
-[php-snippets]: https://github.com/gerardroche/sublime-php-snippets
-[phpunit-completions]: https://github.com/gerardroche/sublime-phpunitck
-[phpunit-snippets]: https://github.com/gerardroche/sublime-phpunit-snippets
-[phpunit]: https://github.com/gerardroche/sublime-phpunit
-[semver]: http://semver.org
-[tab-completed-completions]: http://docs.sublimetext.info/en/latest/extensibility/completions.html#tab-completed-completions
+Released under the [BSD 3-Clause License][LICENSE].
