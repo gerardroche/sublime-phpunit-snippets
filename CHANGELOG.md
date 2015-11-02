@@ -1,5 +1,9 @@
 # gerardroche/sublime-phpunit-snippets changelog
 
+## 1.5.0-dev
+
+* Added: Package Settings Menu with README, CHANGELOG, and LICENSE links
+
 ## 1.4.0
 
 * Add new snippet: `testd` - test with annotated @depends
