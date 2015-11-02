@@ -1,6 +1,8 @@
 # gerardroche/sublime-phpunit-snippets
 
-sublime-phpunit-snippets plugin for Sublime Text. Provides decent PHPUnit snippets.
+A plugin for Sublime Text.
+
+Provides decent PHPUnit snippets.
 
 ## Overview
 
@@ -33,7 +35,8 @@ To enable [tab-completions](http://docs.sublimetext.info/en/latest/extensibility
 
 ### Manual installation
 
-1. Download or clone this repository to a directory named `phpunit-snippets` in the Sublime Text Packages directory for your platform:
+1. Close Sublime Text.
+2. Download or clone this repository to a directory named `phpunit-snippets` in the Sublime Text Packages directory for your platform:
     * Sublime Text 3
         - Linux: `git clone https://github.com/gerardroche/sublime-phpunit-snippets.git ~/.config/sublime-text-3/Packages/phpunit-snippets`
         - OS X: `git clone https://github.com/gerardroche/sublime-phpunit-snippets.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/phpunit-snippets`
@@ -42,11 +45,11 @@ To enable [tab-completions](http://docs.sublimetext.info/en/latest/extensibility
         - Linux: `git clone https://github.com/gerardroche/sublime-phpunit-snippets.git ~/.config/sublime-text-2/Packages/phpunit-snippets`
         - OS X: `git clone https://github.com/gerardroche/sublime-phpunit-snippets.git ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/phpunit-snippets`
         - Windows: `git clone https://github.com/gerardroche/sublime-phpunit-snippets.git %APPDATA%\Sublime/ Text/ 2/Packages/phpunit-snippets`
-2. Restart Sublime Text to complete installation. The features listed above should now be available.
+3. Restart Sublime Text to complete installation. The features listed above should now be available.
 
 ## Contributing
 
-Issue reports and pull requests are always welcome.
+Your issue reports and pull requests are always welcome.
 
 ## Changelog
 

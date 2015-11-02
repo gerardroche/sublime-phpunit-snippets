@@ -1,4 +1,4 @@
-# sublime-phpunit-snippets changelog
+# gerardroche/sublime-phpunit-snippets changelog
 
 ## 1.4.0
 
@@ -18,7 +18,7 @@
 * `phpunitxml` snippet: Added php ini configurations
 * `phpunitxml` snippet: Added `forceCoversAnnotations=true`
 * `phpunitxml` snippet: Removed `color=true`
-* `phpunitxml` snippet: Changed bootstrap option from `test/bootstrap.php` to `vendor/autoload.php 
+* `phpunitxml` snippet: Changed bootstrap option from `test/bootstrap.php` to `vendor/autoload.php
 
 ## 1.1.0
 
@@ -26,10 +26,10 @@
 
 ## 1.0.0
 
-* Minimise auto-complete noise. Snippets like `teardown` and `setup` no longer activate in a meta scope e.g. begin typing at `c extends |`. 
+* Minimise auto-complete noise. Snippets like `teardown` and `setup` no longer activate in a meta scope e.g. begin typing at `c extends |`.
 * Added: `testbootstrap` snippet - PHPUnit test bootstrap template
-* Changed: The last field in snippet no longer ends with `// code ...`, it's now just blank. 
+* Changed: The last field in snippet no longer ends with `// code ...`, it's now just blank.
 
 ## 0.1.0
 
-* Initial import of basic phpunit snippets
+* Initial import
