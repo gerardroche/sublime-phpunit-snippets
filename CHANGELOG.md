@@ -1,6 +1,6 @@
 # gerardroche/sublime-phpunit-snippets changelog
 
-## 1.5.0-dev
+## 1.5.0
 
 * Added: Package Settings Menu with README, CHANGELOG, and LICENSE links
 * Added: "testcase" snippet for plain text scopes
