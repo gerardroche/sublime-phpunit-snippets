@@ -1,8 +1,15 @@
 # gerardroche/sublime-phpunit-snippets
 
-A plugin for Sublime Text.
+[![Author](http://img.shields.io/badge/author-@gerardroche-blue.svg?style=flat)](https://twitter.com/gerardroche)
+[![Source Code](https://img.shields.io/badge/source-GitHub-blue.svg?style=flat)](https://github.com/gerardroche/sublime-phpunit-snippets)
+[![GitHub stars](https://img.shields.io/github/stars/gerardroche/sublime-phpunit-snippets.svg?style=flat)](https://github.com/gerardroche/sublime-phpunit-snippets/stargazers)
+[![License](https://img.shields.io/badge/license-BSD--3-blue.svg?style=flat)](https://raw.githubusercontent.com/gerardroche/sublime-phpunit-snippets/master/LICENSE)
 
-Provides decent PHPUnit snippets.
+[![Sublime version](https://img.shields.io/badge/sublime-v3-lightgrey.svg?style=flat)](http://sublimetext.com)
+[![Latest version](https://img.shields.io/github/tag/gerardroche/sublime-phpunit-snippets.svg?maxAge=2592000?style=flat&label=release)](https://github.com/gerardroche/sublime-phpunit-snippets/tags)
+[![Downloads](https://img.shields.io/packagecontrol/dt/phpunit-snippets.svg?maxAge=2592000?style=flat)](https://packagecontrol.io/packages/phpunit-snippets)
+
+PHPUnit snippets for Sublime Text.
 
 Works best with [PHP Grammar], [PHP Completions], [PHP Snippets], [PHPUnit], and [PHPUnit Completions].
 
