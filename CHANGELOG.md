@@ -1,5 +1,9 @@
 # gerardroche/sublime-phpunit-snippets changelog
 
+## 1.6.0
+
+* THIS PROJECT IS NO LONGER MAINTAINED! I moved all my snippets to my custom [sublimefiles](https://github.com/gerardroche/sublimefiles).
+
 ## 1.5.0
 
 * Added: Package Settings Menu with README, CHANGELOG, and LICENSE links

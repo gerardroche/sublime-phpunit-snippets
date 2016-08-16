@@ -4,14 +4,14 @@
 [![Source Code](https://img.shields.io/badge/source-GitHub-blue.svg?style=flat)](https://github.com/gerardroche/sublime-phpunit-snippets)
 [![License](https://img.shields.io/badge/license-BSD--3-blue.svg?style=flat)](https://raw.githubusercontent.com/gerardroche/sublime-phpunit-snippets/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/gerardroche/sublime-phpunit-snippets.svg?style=flat)](https://github.com/gerardroche/sublime-phpunit-snippets/stargazers)
-
 [![Sublime version](https://img.shields.io/badge/sublime-v3-lightgrey.svg?style=flat)](https://sublimetext.com)
 [![Latest version](https://img.shields.io/github/tag/gerardroche/sublime-phpunit-snippets.svg?label=release&style=flat&maxAge=2592000)](https://github.com/gerardroche/sublime-phpunit-snippets/tags)
-[![Downloads](https://img.shields.io/packagecontrol/dt/phpunit-snippets.svg?style=flat&maxAge=2592000)](https://packagecontrol.io/packages/phpunit-snippets)
 
 PHPUnit snippets for Sublime Text.
 
-## Works best with [PHP Grammar], [PHP Completions], [PHP Snippets], [PHPUnit], and [PHPUnit Completions].
+## THIS PROJECT IS NO LONGER MAINTAINED!
+
+**I moved all my snippets to my custom [sublimefiles](https://github.com/gerardroche/sublimefiles).**
 
 ## Overview
 
@@ -22,14 +22,27 @@ PHPUnit snippets for Sublime Text.
 * [Changelog](#changelog)
 * [License](#license)
 
-# Features
+**Works best with [PHP Grammar], [PHP Completions], [PHP Snippets], [PHPUnit], and [PHPUnit Completions].**
+
+## Features
 
 * PHPUnit [~4.4](http://semver.org)
 * DbUnit [~1.3](http://semver.org)
 * [PSR](http://www.php-fig.org) compliant
 * Scoped to minimise auto-complete noise
 
-See the [documentation](DOCUMENTATION.md) for a list of the snippets.
+## Snippets
+
+| Trigger | Description |
+| ------- | ----------- |
+| `phpunitxml` | PHPUnit: xml configuration declaration |
+| `provide` | PHPUnit: data provider test |
+| `setup` | PHPUnit: setup method declaration |
+| `teardown` | PHPUnit: teardown method declaration |
+| `test` | PHPUnit: test |
+| `testbootstrap` | PHPUnit: bootstrap |
+| `testcase` | PHPUnit: test case declaration |
+| `testd` | PHPUnit: test with annotated @depends |
 
 ## Key Bindings
 
